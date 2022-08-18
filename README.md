@@ -1,2 +1,2 @@
 # WeightedChanceClassTested
-Implementation of weighted random choice selection from items
+My implementation of weighted random choice selection
